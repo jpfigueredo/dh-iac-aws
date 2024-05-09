@@ -1,5 +1,5 @@
 variable "usuario" {
-  default = "nidiodolfini"
+  default = "nome_usuario"
 }
 
 variable "regiao" {
